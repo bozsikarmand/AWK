@@ -1,0 +1,11 @@
+összesen 200
+txt.kalba 24:71 62   rpá 4201  otagllah 222746h 1 --r--r-wr-
+-rw-r--r-- 1 h647222 hallgato  1024 ápr   26 17:42 balna.txt
+txt.rokuc 24:71 62   rpá 4201  otagllah 222746h 1 --r--r-wr-
+-rw-r--r-- 1 h647222 hallgato  5123 ápr   26 17:42 datum.txt
+txt.rebme 24:71 62   rpá 7459  otagllah 222746h 1 --r--r-wr-
+-rw-r--r-- 1 h647222 hallgato  9007 ápr   26 17:42 fa.txt
+kwa.avtidrof 24:71 62   rpá 511   otagllah 222746h 1 x-rx-rxwr-
+-rw-r--r-- 1 h647222 hallgato 90107 ápr   26 17:42 gorog.txt
+txt.ojah 24:71 62   rpá 321   otagllah 222746h 1 --r--r-wr-
+-rw-r--r-- 1 h647222 hallgato     0 ápr   26 17:43 szerver.txt
